@@ -1,0 +1,12 @@
+{
+ "replace": false,
+ "values": [
+  "quiu:adoquin_quiu",
+  "quiu:basalto_quiu",
+  "quiu:losas_quiu",
+  "quiu:toba_quiu",
+  "quiu:pizarra_quiu",
+  "quiu:bioxite_ore",
+  "dinodedsafio:amber_ore"
+ ]
+}

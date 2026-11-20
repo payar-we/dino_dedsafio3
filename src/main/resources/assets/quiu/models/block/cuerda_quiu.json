@@ -1,0 +1,78 @@
+{
+ "parent": "minecraft:block/block",
+ "render_type": "minecraft:cutout",
+ "textures": {
+  "particle": "quiu:block/cuerda_quiu",
+  "c": "quiu:block/cuerda_quiu"
+ },
+ "elements": [
+  {
+   "from": [
+    6,
+    0,
+    6
+   ],
+   "to": [
+    10,
+    16,
+    10
+   ],
+   "faces": {
+    "north": {
+     "texture": "#c",
+     "uv": [
+      6,
+      0,
+      10,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#c",
+     "uv": [
+      6,
+      0,
+      10,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#c",
+     "uv": [
+      6,
+      0,
+      10,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#c",
+     "uv": [
+      6,
+      0,
+      10,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#c",
+     "uv": [
+      6,
+      6,
+      10,
+      10
+     ]
+    },
+    "down": {
+     "texture": "#c",
+     "uv": [
+      6,
+      6,
+      10,
+      10
+     ]
+    }
+   }
+  }
+ ]
+}

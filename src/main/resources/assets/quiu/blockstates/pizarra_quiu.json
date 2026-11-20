@@ -1,0 +1,16 @@
+{
+ "variants": {
+  "axis=y": {
+   "model": "quiu:block/pizarra_quiu"
+  },
+  "axis=x": {
+   "model": "quiu:block/pizarra_quiu",
+   "x": 90,
+   "y": 90
+  },
+  "axis=z": {
+   "model": "quiu:block/pizarra_quiu",
+   "x": 90
+  }
+ }
+}

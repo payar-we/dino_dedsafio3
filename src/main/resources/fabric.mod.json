@@ -1,0 +1,18 @@
+{
+	"schemaVersion": 1,
+	"id": "quiu",
+	"version": "${version}",
+	"name": "Quiu (Dedsafio)",
+	"description": "Bloques, mundo, minas gigantes y entrada (el Hoyo de Quiu) del Centro de Quiu, para el mod de dinosaurios.",
+	"authors": ["Dedsafio"],
+	"license": "All-Rights-Reserved",
+	"environment": "*",
+	"entrypoints": { "main": ["com.dedsafio.quiu.QuiuMod"] },
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"dinodedsafio": "*"
+	}
+}
